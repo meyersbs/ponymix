@@ -1,10 +1,9 @@
-# Ponymix
+# vip<sup>3</sup>r
+## Visually Inept Python-Powered Pulseaudio Remote
 
-Ponymix is a command line mixer for PulseAudio.
+<b>vip<sup>3</sup>r is a command line mixer for PulseAudio written in Python.
 
 ## Dependencies
 
 ### Ubuntu 16.10
 - libpulse-dev
-
-![pinkiepie](https://github.com/falconindy/ponymix/blob/master/ponymix.png)
